@@ -1,0 +1,9 @@
+Welcome to Cloud Shell! Type 'help" to get started.
+To set your Cloud Platform project in this session use "gcloud config set project (PROJECT_ID]"
+nafizaqolbiya@cloudshell: "$ pwd
+/ home/ nafizaqolbiya
+nafizaqolbiya@cloudshell:"$ nano hello.sh
+nafizaqolbiya@cloudshell:"$ chmod +x hello.sh
+nafizaqolbiya@cloudshell:"$/hello.sh
+hello world
+nafizaqolbiya@cloudshell:"$
