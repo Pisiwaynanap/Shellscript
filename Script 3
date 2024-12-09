@@ -1,0 +1,14 @@
+Welcome to Cloud Shell! Type "help" to get started.
+To set your Cloud Platform project in this session use "gcloud config set project [PROJECT_ID]"
+nafizaqolbiya@cloudshell: $ nano latian3.sh
+nafizaqolbiya@cloudshell:"$ cat latian3.sh
+#!/bin/bash
+echo "script untuk menerima input"
+echo "=====
+echo nafiza qolbiya laits"
+read nama
+echo nama saya adalah nama
+echo membaca buku "
+read hobi
+echo "hobi saya adalah" Hobi
+nafizaqolbiya@cloudshell:"$
